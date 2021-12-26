@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dontloseyourheadsu
-- 👀 I’m interested in Basketball and Anime
-- 🌱 I’m currently learning Data Bases, Git and Github
+- 👀 I’m interested in Basketball, Technology and Anime
+- 🌱 I’m currently learning C#, Git, Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Mobile Applications, Web development, Desktop Applications and Game Development
 - 📫 How to reach me @dontloseyourheadsu on Instagram
