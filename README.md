@@ -99,23 +99,4 @@ As a skilled C# web developer, I have extensive experience in developing and del
 
 <br/>  
 
-<div align="left">
-            <a href="https://paypal.me/dontloseyourheadsu@gmail.com" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a></div>  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=dontloseyourheadsu&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
