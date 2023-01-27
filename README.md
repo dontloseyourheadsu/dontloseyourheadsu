@@ -20,6 +20,7 @@
 ### Glad to see you here!  
 As a skilled C# web developer, I have extensive experience in developing and delivering various web projects. I am well-versed in the use of C# and ASP.Net, and I am passionate about utilizing these technologies to create high-quality and efficient web applications. In addition to my work experience, I also enjoy tackling programming challenges on platforms such as Hackerrank and CodingGames, where I am constantly looking to improve my skills and stay updated on the latest developments in the industry.  
   
+  <a href="https://app.daily.dev/dontloseyourheadsu"><img src="https://api.daily.dev/devcards/61522155c0bb44728508d7f11b5817df.png?r=j8q" width="400" alt="Jesus Alvarez Sombrerero's Dev Card"/></a>
 
 <br/>  
 
