@@ -1,7 +1,7 @@
 # Jesus Alvarez Sombrerero
 ### I'm a .NET fullstack developer. I've been working with ASP.Net and Blazor and I'm looking towards developing Artificial Intelligence with Azure.
 
-⤷ I enjoy working with capable teams although I also like working alone. Most of the time I spend at the internet and when I'm not I spend time with my friends. Feel free to contact me for any project even if it's not related to .Net tech stack.
+⤷ I enjoy working with capable teams although I also like working alone. Part of my time I spend at programming and when I'm not I spend time with my friends. Feel free to contact me for any project even if it's not related to .Net tech stack.
 
  <a aligh="left" href="mailto:jesusalvarez.code4@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/jesus-as" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
