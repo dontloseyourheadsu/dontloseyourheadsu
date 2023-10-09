@@ -82,16 +82,6 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dontloseyourheadsu&layout=compact&theme=onedark" alt=dontloseyourheadsu />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dontloseyourheadsu&show_icons=true&locale=en&theme=" alt="dontloseyourheadsu" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dontloseyourheadsu&show_icons=true&locale=en&theme=onedark" alt="dontloseyourheadsu" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dontloseyourheadsu&theme=onedark" alt="dontloseyourheadsu" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/dontloseyourheadsu">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dontloseyourheadsu&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dontloseyourheadsu&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dontloseyourheadsu&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dontloseyourheadsu&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dontloseyourheadsu&theme=onedark" height="180em" />
-</div>
