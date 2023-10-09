@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Alvarez Sombrerero</h1>
 <h3 align="center">.NET developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dontloseyourheadsu&label=Profile%20views&color=0e75b6&style=flat" alt="dontloseyourheadsu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dontloseyourheadsu&theme=onedark" alt="dontloseyourheadsu" /></a> </p>
 
 - 🔭 I’m currently working on [DoggyLife](https://github.com/dontloseyourheadsu/DoggyLife)
 - 👯 I’m looking to collaborate on [WaffyWaifu](https://github.com/dontloseyourheadsu/WaffyWaifu)
@@ -12,6 +9,8 @@
 - 📫 How to reach me **jesus.code4@gmail.com**
 - 👨‍💻 All of my projects are available at **tiempodecode.app.netlify.com**
 - ⚡ Fun fact **Not a person, just a software developer💻**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dontloseyourheadsu&theme=onedark" alt="dontloseyourheadsu" /></a> </p>
 
 <div> <a href="https://twitter.com/dontlosesu" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jesus-as" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -85,3 +84,5 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dontloseyourheadsu&show_icons=true&locale=en&theme=onedark" alt="dontloseyourheadsu" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dontloseyourheadsu&theme=onedark" alt="dontloseyourheadsu" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dontloseyourheadsu&label=Profile%20views&color=0e75b6&style=flat" alt="dontloseyourheadsu" /> </p>
