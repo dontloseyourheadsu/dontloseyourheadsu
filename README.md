@@ -5,7 +5,7 @@
 
  <a aligh="left" href="mailto:jesusalvarez.code4@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/jesus-as" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://www.instagram.com/homura._.akemix/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/instagram.svg" alt="Instagram" width="22" height="22" /></a>  
 
-Add me to discord: Homura Akemi#5623
+<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/discord.svg" alt="Discord" width="22" height="22" /> Homura Akemi#5623
 
 ⚐ Based in Mexico, Pue
 
