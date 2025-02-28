@@ -1,26 +1,36 @@
-# Jesus Alvarez Sombrerero
-### I'm a .NET fullstack developer. I've been working with ASP.Net and Blazor and I'm looking towards developing Artificial Intelligence with Azure.
+### **Jesus Alvarez Sombrerero**  
+#### **Software Engineer | Open Source & AI Enthusiast**  
 
-⤷ I enjoy working on fun projects with a team. Part of my time I spend at programming and when I'm not I'm on Steam or Crunchyroll. Feel free to contact me for any project even if it's not related to .Net tech stack.
+👋 Hey there! I'm a passionate **.NET full-stack developer** with a keen interest in **AI (Machine Learning & Deep Learning)**, **Rust**, and **open-source projects**. I love building innovative solutions using **C# (ASP.NET, Blazor)**, **Python**, and **cloud-based AI services on Azure**.  
 
- <a aligh="left" href="mailto:jesusalvarez.code4@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /> jesusalvarez.code4@gmail.com</a> 
- 
- <a aligh="left" href="https://www.linkedin.com/in/jesus-as" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /> jesus-as</a> 
- 
- <a aligh="left" href="https://www.instagram.com/tiempodecode/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/instagram.svg" alt="Instagram" width="22" height="22" /> tiempodecode</a>  
+💡 My focus is on **AI-powered applications**, **clean code principles** (SOLID, DRY, KISS, YAGNI), and **automation** to enhance development workflows. I actively contribute to open-source projects and enjoy collaborating with other developers to create meaningful software.  
 
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/discord.svg" alt="Discord" width="22" height="22" /> Homura Akemi#5623
+🎮 When I'm not coding, I'm probably playing indie games, watching anime on **Crunchyroll**, or hanging out on **Steam**.  
 
-⚐ Based in Mexico, Pue
+### 💻 **Tech Stack & Skills**  
+- **Languages**: C#, Python, Rust, JavaScript, Kotlin  
+- **Frameworks**: ASP.NET Core, Blazor, Node.js, React  
+- **Databases**: PostgreSQL, SQL Server, MySQL, MongoDB  
+- **Cloud & DevOps**: Azure (AI Services, Functions, App Services), GitHub Actions  
+- **AI & ML**: LLMs, AI-powered tools, automation for software development  
+- **OS**: Linux-first development  
 
-ϟ Currently building my portfolio
+---
 
+### 🚀 **Let's Collaborate!**  
+I'm open to contributions, collaborations, and exciting **AI or .NET** projects. Feel free to reach out!  
 
+📧 **Email**: [jesusalvarez.code4@gmail.com](mailto:jesusalvarez.code4@gmail.com)  
+💼 **LinkedIn**: [jesus-as](https://www.linkedin.com/in/jesus-as)  
+📷 **Instagram**: [tiempodecode](https://www.instagram.com/tiempodecode/)  
+🎮 **Discord**: Homura Akemi#5623  
 
- ## Skills
-   <a href="https://www.learn-c.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/c.svg" alt="C" width="25" height="25" /></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/csharp.svg" alt="C#" width="25" height="25" /></a> <a href="https://www.java.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/java.svg" alt="Java" width="25" height="25" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/kotlin.svg" alt="Kotlin" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/ruby.svg" alt="Ruby" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/bootstrap.svg" alt="Bootstrap" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> 
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dontloseyourheadsu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![dontloseyourheadsu's github stats](https://github-readme-stats.vercel.app/api?username=dontloseyourheadsu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+⚐ **Based in Mexico, Pue**  
 
-  <a href="https://app.daily.dev/dontloseyourheadsu"><img src="https://api.daily.dev/devcards/61522155c0bb44728508d7f11b5817df.png?r=j8q" width="400" alt="Jesus Alvarez Sombrerero's Dev Card"/></a>
+---
+
+### 📊 **GitHub Stats & Activity**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dontloseyourheadsu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![dontloseyourheadsu's github stats](https://github-readme-stats.vercel.app/api?username=dontloseyourheadsu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+
+<a href="https://app.daily.dev/dontloseyourheadsu"><img src="https://api.daily.dev/devcards/61522155c0bb44728508d7f11b5817df.png?r=j8q" width="400" alt="Jesus Alvarez Sombrerero's Dev Card"/></a>  
