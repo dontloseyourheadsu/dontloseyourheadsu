@@ -32,5 +32,3 @@ I'm open to contributions, collaborations, and exciting **AI or .NET** projects.
 ### 📊 **GitHub Stats & Activity**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dontloseyourheadsu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 [![dontloseyourheadsu's github stats](https://github-readme-stats.vercel.app/api?username=dontloseyourheadsu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-
-<a href="https://app.daily.dev/dontloseyourheadsu"><img src="https://api.daily.dev/devcards/61522155c0bb44728508d7f11b5817df.png?r=j8q" width="400" alt="Jesus Alvarez Sombrerero's Dev Card"/></a>  
