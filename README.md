@@ -10,7 +10,7 @@
 ### 💻 **Tech Stack & Skills**  
 - **Languages**: C#, Python, Rust, JavaScript, Kotlin  
 - **Frameworks**: ASP.NET Core, Blazor, Node.js, React  
-- **Databases**: PostgreSQL, SQL Server, MySQL, MongoDB  
+- **Databases**: PostgreSQL, SQL Server, MySQL, DynamoDB 
 - **Cloud & DevOps**: Azure (AI Services, Functions, App Services), GitHub Actions  
 - **AI & ML**: LLMs, AI-powered tools, automation for software development  
 - **OS**: Linux-first development  
