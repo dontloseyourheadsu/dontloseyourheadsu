@@ -35,7 +35,7 @@ I’m a full-stack developer specializing in <strong>.NET</strong> (C#, ASP.NET,
 
 ### ⭐ What I’m Into
 
-* Crafting <strong>AI-powered tools</strong> and automation pipelines
+* Crafting <strong>highly reliable</strong> system applications 
 * Developing <strong>high-performance</strong> systems with Rust and .NET
 * Contributing to <strong>open-source</strong> and community-driven projects
 
