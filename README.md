@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m <strong>Jesus Alvarez Sombrerero</strong></h1>
-<h3 align="center">Software Engineer · AI & Open‑Source Enthusiast</h3>
+<h3 align="center">Software Engineer · Low Level & Backend Architecture Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/dontloseyourheadsu">
