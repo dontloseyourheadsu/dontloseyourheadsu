@@ -28,7 +28,7 @@ I’m a full-stack developer specializing in <strong>.NET</strong> (C#, ASP.NET,
 | <strong>AI & Automation</strong> | Python, LLMs, Azure AI Services                       |
 | <strong>Frontend</strong>        | JavaScript, Node.js, Vite                             |
 | <strong>Databases</strong>       | PostgreSQL, SQL Server, MySQL, DynamoDB               |
-| <strong>Cloud & DevOps</strong>  | Azure Functions, App Services, Docker, GitHub Actions |
+| <strong>Cloud & DevOps</strong>  | AWS S3, App Services, Docker, GitHub Actions |
 | <strong>OS</strong>              | Linux-first development environment                   |
 
 ---
