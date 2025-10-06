@@ -26,10 +26,10 @@ I’m a full-stack developer specializing in <strong>.NET</strong> (C#, ASP.NET,
 | <strong>.NET & Web</strong>      | C#, ASP.NET Core, Blazor, Entity Framework            |
 | <strong>Rust</strong>            | CLI tools, backend services, memory-safe systems      |
 | <strong>AI & Automation</strong> | Python, LLMs, Azure AI Services                       |
-| <strong>Frontend</strong>        | JavaScript, Node.js, Vite                             |
+| <strong>Frontend</strong>        | JavaScript, Node.js, Angular                          |
 | <strong>Databases</strong>       | PostgreSQL, SQL Server, MySQL, DynamoDB               |
-| <strong>Cloud & DevOps</strong>  | AWS S3, App Services, Docker, GitHub Actions |
-| <strong>OS</strong>              | Linux-first development environment                   |
+| <strong>Cloud & DevOps</strong>  | AWS (S3, SNS, SQS), Web Services, Docker, Serverless  |
+| <strong>CI/CD</strong>           | GitHub Actions, Azure DevOps, Git, Scrum              |
 
 ---
 
